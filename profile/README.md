@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8a20b4&text=Scenehop&textBg=false&fontColor=FFFFFF&strokeWidth=0&desc=YOUR%20video%20platform&descSize=16&animation=twinkling">
 </p>
 
-<p align="center">
-	<img src="https://img.shields.io/discord/1402482927769620598?logo=Discord&logoColor=%23FFFFFF&logoSize=auto&label=Join%20Our%20Discord&color=%235865F2&link=https%3A%2F%2Fscenehop.com%2Fdiscord">
-	<img src="https://img.shields.io/badge/Join%20our-Reddit-orange?style=flat&logo=reddit&logoColor=white&link=https%3A%2F%2Fwww.reddit.com%2Fr%2Fscenehop%2F">
-</p>
+
+![Discord](https://img.shields.io/discord/1402482927769620598?style=flat&logo=discord&logoColor=white&logoSize=auto&label=Join%20our%20Discord&color=%235865F2)
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/scenehop?style=flat&logo=reddit&logoColor=white&logoSize=auto&label=Join%20our%20Subreddit&color=%23FF4500)
+
 
 
 ## Our Goal 
