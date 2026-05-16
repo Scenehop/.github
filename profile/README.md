@@ -9,12 +9,22 @@
 
 
 ## Our Goal 
-### “Do to others as you would have them do to you”
-
+### “By Humans, For Humans“
 We are ***Scenehop**, a volunteer-based video sharing platform* with **you**, the people, in mind. 
-Our platform was founded on one common goal: *pointing out the wrongdoing in today’s corporate greed-filled society, and correcting it with our own independent platform.*
-We aren’t backed by millions of dollars. We don’t have a big corporation, or the government, or a billionaire backing us. But what we do have is something that has more power than all of those combined. We have the ***people***. We aim to provide a common platform to unite and revolt against modern corporations and platforms, such as YouTube, Twitch, and TikTok. They prioritize profits, whilst we prioritize consumers; *because at the end of the day, we are all **consumers**.*
+Our platform was founded on one common goal: *pointing out the wrongdoing in today’s corporate, greed-filled society and providing an independent, authentic alternative.*
+We are not backed by billionaires, venture capital, corporations, or a government But what we do have is something that has more power than all of those combined. We have the **people**. We are an independent collective of developers, designers, and creators who believe in a platform that prioritizes consumers because, at the end of the day, **we are all consumers**. We aim to unite against platforms like YouTube, Twitch, and TikTok by rejecting invasive AI- and capital-driven policies and returning power to the community.
 
+---
+
+## Progress (Updated May 16, 2026)
+As of **May 2026**, Scenehop has begun its structured foundational planning phase aimed at reaching a **Minimal Viable Product (MVP)**.
+
+	- We have successfully laid the groundwork for a scalable backend using a Server-side Rendered (SSR) model with a Node.js Aggregation Gateway built on Fastify and TypeScript.
+	- We are creating our unique Purple branding and have explicitly rejected "Corporate Flat Design" in favor of human-centric, 3D-ish aesthetics inspired by the 2000s/2010s.
+	- We have refurbished our organisational structure to produce a faster and more qualitative product.
+	- Our "About Us" landing page and social media management systems are being finalized to maintain transparency as our community nears 400 members.
+
+---
 
 ## Join The Discord 
 
@@ -26,24 +36,25 @@ No matter your age, your gender, your passions, Scenehop is a place where everyo
 Join our platform and make a difference. Tired of AI slop and want to make use of your time? Join the Scenehop Discord server and contribute to the evolution of the greatest video streaming app to ever be created. Simple and easy to navigate, created by a group of developers that prioritise the consumer experience over their own personal gain.
 Find all info on our Discord so that you too can become part of the Team that can [**”Dream Revolutionary Dreams”**](https://www.scenehop.com/discord)
 
+---
 
-### Progress
+## The Roadmap to Closed Alpha Launch
+Our immediate focus is a Closed Alpha release scheduled for September 1st, 2026.
+Phase 1: Consolidation & Design (May – June 2026)
 
-As of today (December 6th 2025), our **Development Team** has made significant progress, *successfully laying the essential architectural groundwork* for our project.
-This work represents a successful transition from the basic planning to foundational implementation.
-Furthermore, our newly founded **Marketing & Design Group** has begun its work on the advertising plan and the About Us page for Scenehop.
+    - Unify all community-driven ideas into a final project draft.
+	- Merge disparate frontend prototypes into the main web repository to establish a consistent user experience.
+    - Finalize branding guidelines, including custom human-made iconography.
 
+Phase 2: Core Infrastructure (July 2026)
 
-### Roadmap
+    - The "Draft" System: Implement a strict lifecycle where uploads begin as editable drafts to ensure metadata (titles, tags) is perfected before a video goes live.
+    - Distributed Hosting: Deploy specialized hosting servers to manage streaming segment-by-segment, preserving bandwidth and performance.
+    - Human Moderation: Launch our "Human-to-Human" report system, integrating site-side reports directly with our moderation team to prevent AI-driven censorship.
 
-Our immediate focus is to create a Minimal Viable Product (MVP)
-The core goal is to launch a minimal product that is fully functional. This includes:
+Phase 3: Stress Testing & Onboarding (August 2026)
 
-	- the Core Feature Set, i.e. User accounts and profiles, video uploading and playing, browsing, public comments, likes, and subscriptions.
-	- a Creator Dashboard that provides basic analytics, such as views and watch time.
-	- the Implementation of core components, including the API, the integration of object storage and a CDN for video delivery, etc.
-	- and essential moderation tools such as content reporting, an admin review queue, and a takedown endpoint.
-
+    - Creator Onboarding: Invite a shortlist of verified creators to stress-test the "Scenes" categorization system and engagement rewards.
 
 The public launch will consist of three stages, as to ensure operational stability:
 
