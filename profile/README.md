@@ -39,20 +39,20 @@ Find all info on our Discord so that you too can become part of the Team that ca
 ---
 
 ## The Roadmap to Closed Alpha Launch
-Our immediate focus is a Closed Alpha release scheduled for September 1st, 2026.
-Phase 1: Consolidation & Design (May – June 2026)
+Our immediate focus is a Closed Alpha release scheduled for March 1st, 2027.
+Phase 1: Consolidation & Design (May – August 2026)
 
     - Unify all community-driven ideas into a final project draft.
 	- Merge disparate frontend prototypes into the main web repository to establish a consistent user experience.
     - Finalize branding guidelines, including custom human-made iconography.
 
-Phase 2: Core Infrastructure (July 2026)
+Phase 2: Core Infrastructure (August - December 2026)
 
     - The "Draft" System: Implement a strict lifecycle where uploads begin as editable drafts to ensure metadata (titles, tags) is perfected before a video goes live.
     - Distributed Hosting: Deploy specialized hosting servers to manage streaming segment-by-segment, preserving bandwidth and performance.
     - Human Moderation: Launch our "Human-to-Human" report system, integrating site-side reports directly with our moderation team to prevent AI-driven censorship.
 
-Phase 3: Stress Testing & Onboarding (August 2026)
+Phase 3: Stress Testing & Onboarding (December 2026 - March 2027)
 
     - Creator Onboarding: Invite a shortlist of verified creators to stress-test the "Scenes" categorization system and engagement rewards.
 
